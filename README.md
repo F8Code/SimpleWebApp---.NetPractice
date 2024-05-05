@@ -1,1 +1,1 @@
-This is a simple ASP.NET practice for my university. It involves a simple database for storing logged users and their information and a simple frontend and backend program that together create a simple game for testing your reflexes. 
+This is a simple ASP.NET practice for my university. It involves a simple database for storing logged users and their information as well as a frontend and backend program that together create a simple game for testing your reflexes. 
