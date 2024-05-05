@@ -1,0 +1,56 @@
+﻿.Workspace {
+    color: Blue;
+    text-align: center;  
+    width: 24%;
+    height: 600px;
+    background-color: #eee;
+    border: 1px solid #aaa;
+    float: right
+}
+
+form.main {
+    display: flex;
+    background-color: #eee;
+}
+
+.GridContainer {
+    width: 74%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.GridContent {  
+    display: flex;
+}
+
+.box {
+    width: 33.33%;
+    height: calc(350px / 3);
+    background: white;
+    border: 1px solid #aaa;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form {
+    background: white;
+    border: 1px solid #;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    style ="background-color: #FFFFFF; align-items: center; justify-content: center; text-align: center;"
+}
+
+.custom-detailsview {
+    background-color: #f2d2a9;
+}
+
+.left-column {
+    width: 90%;
+}
+
+.right-column {
+    width: 10%;
+}
